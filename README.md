@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in web development, machine learning, and open-source contributions. I love to learn new technologies and build projects that make a difference.
+I am a passionate software developer with a keen interest in cross-platform development, and open-source contributions. I love to learn new technologies and build projects that make a difference.
 
 ## Skills
 
